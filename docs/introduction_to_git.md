@@ -38,9 +38,10 @@ __1. Trên Linux:__
 
 - Ubuntu: `sudo apt-get install git`
 
-__2. Trên Window:__
+__2. Trên Windows:__
 
-- Trên window thì việc cài đặt sẽ khó khăn hơn 1 chút, để đơn giản. bạn truy cập  vào đường dẫn: [https://www.git-scm.com/downloads](https://www.git-scm.com/downloads) và tại về bản git dành cho window bao gồm cả giao diện đồ họa GUI và terminal.
+- Trên window thì việc cài đặt sẽ khó khăn hơn 1 chút. Để đơn giản, bạn truy cập  vào đường dẫn: [https://www.git-scm.com/downloads](https://www.git-scm.com/downloads) và tại về bản git dành cho window bao gồm cả giao diện đồ họa GUI và terminal.
+- Hoặc bạn có thể dùng phiên bản [Portable Git](https://git-scm.com/download/win)
 
 ---
 
